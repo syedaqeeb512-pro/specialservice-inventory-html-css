@@ -1,4 +1,4 @@
 # specialservice-inventory-html-css
-A multi-page frontend website for a Special Services Group (SSG) Personal Inventory System, built using HTML and CSS.
+Responsive Inventory Management website built using HTML5 and CSS3 featuring authentication pages, dashboard, product management interface, and responsive layouts.
 <br>
 Author - SYED AQEEB HAIDER NAQVI
